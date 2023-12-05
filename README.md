@@ -1,4 +1,4 @@
-# FraudDetection
+# Fraud Detection
 
 **Introduction:**
 Fraud detection is the identification and prevention of unauthorised monetary transactions. It is import for security management and to stop financial and reputational damage. Fraud has become more frequent and has cost companies to lose billions of dollars annually in the financial industry. Fraud detection works by using a variety of applications and methods to prevent fraudulent activities by detecting them through various factors. The effectiveness of fraud detection depends on the quality of data, the quantity of data and configuration of algorithms. In this dataset we investigate an imbalanced dataset and the most effective algorithm to use to determine fraudulent and non-fraudulent transaction activity.
