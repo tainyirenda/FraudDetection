@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Tai</h1>
+<h3 align="center"> Welcome to my Fraud Detection Project.</h3>
+<br/>
+<h4>  🌱 Check out how I used a Machine Learning solution for fraud detection on Trust Bank dummy data. </h4>
+<br/>
+
 # Fraud Detection
 
 **Introduction:**
